@@ -1,0 +1,50 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    }
+
+.white{
+    background-color: white;
+    width: 600px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    box-shadow: 1px 10px 15px rgba(180, 231, 245, 0.5);
+    padding: 90px;
+}
+
+ input[type="text"]{
+    width: 280px;
+    height: 40px;
+    margin-right: 260px;
+    margin-bottom: -90px;
+    border-radius: 6px;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+ .send{
+    background-color: rgb(62, 62, 194);
+    border-radius: 6px;
+    color: white;
+    width:260px ;
+    height:46px ;
+    margin-left: 320px;
+    margin-top: -47px;
+    border: none;
+    cursor: pointer;
+}
+
+span{
+    display: block;
+}
+ 
+ h6{
+    color: rgb(163, 163, 163);
+ }
